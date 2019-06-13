@@ -15,7 +15,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "MLB Beer Team"
+    return "MLB Beer Team, Hey guys lets pus some code on the brewries"
 
 
 
