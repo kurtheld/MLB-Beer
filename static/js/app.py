@@ -1,0 +1,23 @@
+import os
+
+import pandas as pd
+import numpy as np
+
+import sqlalchemy
+from sqlalchemy.ext.automap import automap_base
+from sqlalchemy.orm import Session
+from sqlalchemy import create_engine
+
+from flask import Flask, jsonify, render_template
+from flask_sqlalchemy import SQLAlchemy
+
+app = Flask(__name__)
+
+@app.route("/")
+def hello():
+    return "MLB Beer Team, Hey guys lets put some code on the brewries"
+
+
+
+if __name__ == "__main__":
+    app.run()
