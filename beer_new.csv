@@ -1,0 +1,259 @@
+,Unnamed: 0,Teams,Beers
+0,0,Arizona Diamondbacks,Samuel Adams Boston Lager
+1,1,Arizona Diamondbacks,Goose Island Beer Co. Honker's Ale
+2,2,Arizona Diamondbacks,Goose Island Beer Co. 312 Urban Wheat
+3,3,Arizona Diamondbacks,Blue Moon Belgian White
+4,4,Arizona Diamondbacks,Phoenix Ale Brewery Camelback IPA
+5,5,Atlanta Braves,Sweetwater IPA
+6,6,Atlanta Braves,Sweetwater LowRYEder IPA
+7,7,Atlanta Braves,Sweetwater 420 Extra Pale Ale
+8,8,Atlanta Braves,Sweetwater Georgia Brow
+9,9,Atlanta Braves,Terrapin Hopsecutioner
+10,10,Atlanta Braves,Yuengling
+11,11,Atlanta Braves,Yuengling Light
+12,12,Atlanta Braves,Goose Island Brewing Co. IPA
+13,13,Atlanta Braves,Goose Island Brewing Co. 312
+14,14,Atlanta Braves,Blue Point Toasted Lager
+15,15,Boston Red Sox,"Smuttynose IPA ""Finest Kind"""
+16,16,Boston Red Sox,Goose Island Beer Co. Honker's Ale
+17,17,Boston Red Sox,Harpoon Octoberfest Beer
+18,18,Boston Red Sox,Cisco Brewers Whale's Tale Pale Ale
+19,19,Chicago Cubs,Goose Island Beer Co. Sofie
+20,20,Chicago Cubs,Goose Island Beer Co. Matilda
+21,21,Chicago Cubs,Goose Island Beer Co. Green Line
+22,22,Chicago Cubs,Goose Island Beer Co. 312 Urban Wheat
+23,23,Chicago White Sox,Half Acre Beer Company Daisy Cutter Pale Ale
+24,24,Chicago White Sox,Revolution Brewing Company Anti-Hero
+25,25,Chicago White Sox,Lagunitas Brewing Company DayTime
+26,26,Chicago White Sox,Sierra Nevada Pale Ale
+27,27,Chicago White Sox,Rogue Ales Dead Guy Ale
+28,28,Colorado Rockies,Great Divide Brewing Co. Titan IPA
+29,29,Colorado Rockies,Oskar Blues Dale's Pale Ale
+30,30,Colorado Rockies,Avery India Pale Ale (IPA)
+31,31,Colorado Rockies,Odell 90 Shilling Ale
+32,32,Colorado Rockies,Odell Easy Street Wheat
+33,33,Detroit Tigers,Bell's Two Hearted Ale
+34,34,Detroit Tigers,Founders Porter
+35,35,Detroit Tigers,Founders Red's Rye IPA
+36,36,Detroit Tigers,Founders Dirty Bastard
+37,37,Houston Astros,Saint Arnold Elissa IPA
+38,38,Houston Astros,Saint Arnold Amber Ale
+39,39,Houston Astros,Saint Arnold Fancy Lawnmower
+40,40,Houston Astros,Blue Moon Belgian White
+41,41,Houston Astros,Goose Island Beer Co. 312 Urban Wheat
+42,42,Los Angeles Angels of Anaheim,Stone Brewing Co. Arrogant Bastard Ale
+43,43,Los Angeles Angels of Anaheim,Hangar 24 Brewery Betty
+44,44,Los Angeles Angels of Anaheim,Bootlegger's Brewery Palomino American Pale Ale
+45,45,Los Angeles Angels of Anaheim,Goose Island Beer Co. India Pale Ale
+46,46,Los Angeles Angels of Anaheim,New Belgium Brewing Ranger
+47,47,Los Angeles Dodgers,Stone Brewing Co. Stone IPA
+48,48,Los Angeles Dodgers,Stone Brewing Co. Arrogant Bastard Ale
+49,49,Los Angeles Dodgers,Stone Brewing Co. Smoked Porter
+50,50,Los Angeles Dodgers,Anchor Brewing Company Anchor Steam Beer
+51,51,Miami Marlins,Goose Island Beer Co. Sofie
+52,52,Miami Marlins,Goose Island Beer Co. Matilda
+53,53,Miami Marlins,Goose Island Beer Co.India Pale Ale
+54,54,Miami Marlins,Sweetwater Brewing Co. IPA
+55,55,New York Mets,Spaten-Franziskaner-Bräu Franziskaner Hefe-Weisse
+56,56,New York Mets,Sixpoint Brewery Bengali Tiger
+57,57,New York Mets,Sixpoint Brewery Sweet Action
+58,58,New York Mets,Sixpoint Brewery The Crisp
+59,59,New York Mets,Southern Tier Brewing Company IPA
+60,60,New York Yankees,Goose Island Beer Co. Honker's Ale 
+61,61,New York Yankees,Blue Moon Belgian White 
+62,62,New York Yankees,Goose Island Beer Co. 312 Urban Wheat 
+63,63,Philadelphia Phillies,Ommegang Rare Vos
+64,64,Philadelphia Phillies,Victory Brewing Company Hop Devil Ale
+65,65,Philadelphia Phillies,Victory Brewing Company Prima Pils
+66,66,Philadelphia Phillies,Victory Brewing Company
+67,67,Philadelphia Phillies,Sly Fox Brewing Company Pikeland Pils
+68,68,San Diego Padres,Ballast Point Brewing Co. Sculpin IPA
+69,69,San Diego Padres,Stone Brewing Co. Ruination IPA
+70,70,San Diego Padres,Stone Brewing Co. Oaked Arrogant Bastard Ale
+71,71,San Diego Padres,Stone Brewing Co. Sublimely Self-Righteous Ale
+72,72,San Diego Padres,Green Flash West Coast I.P.A.
+73,73,San Francisco Giants,Anchor Porter
+74,74,San Francisco Giants,Sierra Nevada Pale Ale
+75,75,San Francisco Giants,Anchor Steam Beer
+76,76,San Francisco Giants,Lagunitas IPA
+77,77,San Francisco Giants,Trumer Pils
+78,78,Seattle Mariners,Ninkasi Vanilla Oatis Stout
+79,79,Seattle Mariners,Northwest Brewing Joker Amber Ale
+80,80,Seattle Mariners,Black Raven Trickster IPA
+81,81,Seattle Mariners,Black Raven Session IPA
+82,82,Seattle Mariners,Fremont Interurban IPA
+83,83,Seattle Mariners,Iron Horse Brewing Irish Death
+84,84,Seattle Mariners,Spire Dark &amp; Dry cider
+85,85,Seattle Mariners,Stone Brewing Company IPA
+86,86,Seattle Mariners,Schooner Exact King Street Brown
+87,87,Seattle Mariners,Pike 5X Stout
+88,88,Seattle Mariners,Pike Kilt Lifter
+89,89,Seattle Mariners,Pike Naughty Nellie
+90,90,Seattle Mariners,21st Amendment Watermelon wheat
+91,91,Seattle Mariners,7 Seas Port Royal stout
+92,92,Seattle Mariners,Full Sail Amber
+93,93,Seattle Mariners,Victory Prima Pils
+94,94,Seattle Mariners,Bale Breaker Top Cutter IPA
+95,95,Seattle Mariners,Rogue Hazlenut Brown Ale
+96,96,Seattle Mariners,Two Beers EVO IPA
+97,97,Seattle Mariners,Diamond Knot IPA
+98,98,Washington Nationals,Dogfish Head Brewery 60 Minute IPA
+99,99,Washington Nationals,Flying Dog Brewery Gonzo Imperial Porter
+100,100,Washington Nationals,Sierra Nevada Pale Ale
+101,101,Washington Nationals,Boulevard Brewing Co. Dark Truth Stout
+102,102,Washington Nationals,Allagash Saison Ale
+103,103,St. Louis Cardinals,Goose Island IPA 
+104,104,St. Louis Cardinals,Goose Island Honkers 
+105,105,St. Louis Cardinals,O'Fallon Wheach
+106,106,St. Louis Cardinals,Shock Top Wheat
+107,107,St. Louis Cardinals,Schlafly Pale Ale
+108,108,St. Louis Cardinals,Schlafly Summer Lager
+109,109,St. Louis Cardinals,Schlafly Raspberry Hefeweize
+110,110,St. Louis Cardinals,Urban Chestnut Zwickel
+111,111,St. Louis Cardinals,Urban Chestnut Stli
+112,112,St. Louis Cardinals,Urban Chestnut Hopfe
+113,113,St. Louis Cardinals,Sam Adams Boston Lager
+114,114,St. Louis Cardinals,Boulevard Brewing Co.
+115,115,St. Louis Cardinals,Ranger IPA
+116,116,St. Louis Cardinals,Blue Moon 
+117,117,St. Louis Cardinals,Leinenkugel 
+118,118,Baltimore Orioles,Dempsey's Rick's Red Ale
+119,119,Baltimore Orioles,Dempsey's Wild Pitch Wheat
+120,120,Baltimore Orioles,Dempsey's Rain Delay IPA
+121,121,Baltimore Orioles,Dempsey's The '83 Golden Ale
+122,122,Baltimore Orioles,Flying Dog Snake Dog IPA
+123,123,Baltimore Orioles,Flying Dog UnderDog Atlantic Lager
+124,124,Baltimore Orioles,Flying Dog Gonzo Imperial Porter
+125,125,Baltimore Orioles,Stone Levitation Ale
+126,126,Baltimore Orioles,Stone Sublimely Self-Righteous Ale
+127,127,Baltimore Orioles,Heavy Seas Loose Canno
+128,128,Baltimore Orioles,Heavy Seas Cutlass Amber Lager
+129,129,Baltimore Orioles,Heavy Seas Small Craft Warning
+130,130,Baltimore Orioles,Heavy Seas Peg Leg Stout
+131,131,Baltimore Orioles,The Raven Special Lager
+132,132,Baltimore Orioles,Old Dominion Oak Barrel Stout
+133,133,Baltimore Orioles,Dogfish Head Namaste
+134,134,Baltimore Orioles,Dogfish Head 90 Minute IPA
+135,135,Baltimore Orioles,Shock Top Belgian Wheat
+136,136,Baltimore Orioles,Goose Island Honkers Ale
+137,137,Baltimore Orioles,Fordham Copperhead Ale
+138,138,Baltimore Orioles,New Belgium Fat Tire
+139,139,Baltimore Orioles,Oscar Blues Dale's Pale Ale
+140,140,Baltimore Orioles,Southern Tier 422 Wheat Ale
+141,141,Baltimore Orioles,Lagunitas Pils
+142,142,Baltimore Orioles,Band of Brewers Third Shift
+143,143,Baltimore Orioles,Anchor Steam Beer
+144,144,Baltimore Orioles,Starr Hill the Love
+145,145,Baltimore Orioles,Lancaster Strawberry Wheat
+146,146,Baltimore Orioles,Leinenkugel Summer Shandy
+147,147,Baltimore Orioles,Goose Island Sofie
+148,148,Baltimore Orioles,Full Sail Session Black Lager
+149,149,Baltimore Orioles,Evolution Craft Brewing Lot #3 India Pale Ale
+150,150,Minnesota Twins,Indeed Dandy Lager
+151,151,Minnesota Twins,Indeed Day Tripper
+152,152,Minnesota Twins,Indeed Shenanigans
+153,153,Minnesota Twins,Summit EPA
+154,154,Minnesota Twins,Summit Hopvale
+155,155,Minnesota Twins,Summit Maibock
+156,156,Minnesota Twins,Summit Saga
+157,157,Minnesota Twins,Surly Furious
+158,158,Minnesota Twins,Surly Bender
+159,159,Minnesota Twins,Surly Hell
+160,160,Minnesota Twins,Fulton Lonely Blonde
+161,161,Minnesota Twins,Fulton Sweet Child of Vine
+162,162,Minnesota Twins,Grainbelt Premium
+163,163,Minnesota Twins,Grainbelt Nordeast
+164,164,Minnesota Twins,Grainbelt Light
+165,165,Minnesota Twins,Third Street Three Way
+166,166,Minnesota Twins,Third Street Lost Trout
+167,167,Minnesota Twins,Lift Bridge Farm Girl
+168,168,Minnesota Twins,Lift Bridge Hop Dish
+169,169,Minnesota Twins,Bauhaus Brew Labs Wonderstuff Neü Bohemian Pilsner
+170,170,Minnesota Twins,Bauhaus Brew Labs Sky-Five!
+171,171,Minnesota Twins,Bauhaus Brew Labs Midwest Cöast IPA
+172,172,Minnesota Twins,Bauhaus Brew Labs Stargrazer (rotating)
+173,173,Minnesota Twins,Bauhaus Brew Labs Wagon Party (rotating)
+174,174,Minnesota Twins,North Lake Brewing Company Honey Brown Lager
+175,175,Cincinnati Reds,Rhinegeist Truth American IPA
+176,176,Cincinnati Reds,Shock Top Belgian White
+177,177,Cincinnati Reds,Mad Tree PsycHOPathy IPA
+178,178,Cincinnati Reds,50 West Wire to Wire Wheat
+179,179,Cincinnati Reds,New Belgium Fat Tire Amber Ale
+180,180,Cincinnati Reds,Mt. Carmel Nut Brown Ale
+181,181,Cincinnati Reds,Christian Moerlein Altered Pale Ale
+182,182,Cincinnati Reds,Christian Moerlein Over-The-Rhine Ale
+183,183,Cincinnati Reds,Blank Slate The Lesser Path IPA
+184,184,Cincinnati Reds,Listermann Leopold Belgium Blonde
+185,185,Cincinnati Reds,Rivertown Blueberry Lager
+186,186,Cincinnati Reds,Braxton Brewing Sparky Hoppy Wheat Ale
+187,187,Cincinnati Reds,Kentucky Bourbon Barrel Ale
+188,188,Cincinnati Reds,Warped Wing Ermal's Belgian Style Cream Ale
+189,189,Cincinnati Reds,21st Amendment Hell or High Watermelon Wheat
+190,190,Cincinnati Reds,Bell's Oberon Pale Wheat Ale
+191,191,Cincinnati Reds,Founders All Day IPA
+192,192,Cincinnati Reds,Deschutes Mirror Pond Pale Ale
+193,193,Cincinnati Reds,SweetWater 420 Extra Pale Ale
+194,194,Cincinnati Reds,Yuengling Traditional Lager
+195,195,Cincinnati Reds,Leinenkugel's Summer Shandy
+196,196,Cincinnati Reds,Goose Island Urban 312 Pale Ale
+197,197,Cincinnati Reds,Goose Island IPA
+198,198,Cincinnati Reds,Sam Adams Summer Ale
+199,199,Kansas City Royals,Boulevard Unfiltered Wheat
+200,200,Kansas City Royals,Boulevard Pale Ale
+201,201,Kansas City Royals,Boulevard Tank 7 Farmhouse Ale
+202,202,Kansas City Royals,Boulevard The Calling
+203,203,Kansas City Royals,Boulevard KC Pils
+204,204,Kansas City Royals,Boulevard 80 Acre
+205,205,Kansas City Royals,Boulevard Single-Wide IPA
+206,206,Kansas City Royals,Boulevard Imperial Stout
+207,207,Kansas City Royals,Boulevard Spring Belle
+208,208,Kansas City Royals,Ommegang Cooperstown
+209,209,Kansas City Royals,Ommegang Three Philosophers
+210,210,Kansas City Royals,Sante Fe Java Stout
+211,211,Kansas City Royals,Mothers Three Blind Mice
+212,212,Kansas City Royals,Founders All-Day IPA
+213,213,Kansas City Royals,River North White
+214,214,Kansas City Royals,Breckenridge Agave Wheat
+215,215,Kansas City Royals,Martin City Abbey
+216,216,Kansas City Royals,Duvel
+217,217,Oakland Athletics,Strike Brewing Co. Wit
+218,218,Oakland Athletics,Strike Brewing Co. Brow
+219,219,Oakland Athletics,Strike Brewing Co. Opening Pitch Pale Ale
+220,220,Oakland Athletics,Strike Brewing Co. IPA
+221,221,Oakland Athletics,Strike Brewing Co. Blonde
+222,222,Oakland Athletics,Strike Brewing Co. Irish Red Ale
+223,223,Oakland Athletics,Sierra Nevada Torpedo Extra IPA
+224,224,Oakland Athletics,Sierra Nevada Pale Ale
+225,225,Oakland Athletics,Drake's 1500 Pale Ale
+226,226,Oakland Athletics,Drake's IPA
+227,227,Oakland Athletics,Trumer Pil
+228,228,Texas Rangers,Sierra Nevada Pale Ale
+229,229,Texas Rangers,Oskar Blues Dale's Pale Ale
+230,230,Texas Rangers,Founders All Day IPA
+231,231,Texas Rangers,Odell 90 Shilling Ale
+232,232,Texas Rangers,Franconia Lager
+233,233,Milwaukee Brewers,Sierra Nevada Torpedo Extra IPA
+234,234,Milwaukee Brewers,Sierra Nevada Pale Ale
+235,235,Milwaukee Brewers,Bell's Oberon Ale
+236,236,Milwaukee Brewers,Milwaukee Brewing Company O-Gii
+237,237,Milwaukee Brewers,New Belgium Brewing Ranger
+238,238,Pittsburgh Pirates,Bell's Two Hearted Ale
+239,239,Pittsburgh Pirates,Lagunitas A Little Sumpin' Sumpin' Ale
+240,240,Pittsburgh Pirates,Dogfish Head Indian Brown Ale
+241,241,Pittsburgh Pirates,Dogfish Head 60 Minute IPA
+242,242,Pittsburgh Pirates,Victory Hop Devil Ale
+243,243,Cleveland Indians,Fat Head's Head Hunter IPA
+244,244,Cleveland Indians,The Brew Kettle White Rajah
+245,245,Cleveland Indians,Bell's Two Hearted Ale
+246,246,Cleveland Indians,Dogfish Head 60 Minute IPA
+247,247,Cleveland Indians,Great Lakes Dortmunder Gold
+248,248,Toronto Blue Jays,Alexander Keith's Galaxy Hop Ale
+249,249,Toronto Blue Jays,Alexander Keith's Hallertauer Hope Ale
+250,250,Toronto Blue Jays,Alexander Keith's Cascade Hop Ale
+251,251,Toronto Blue Jays,Stella Artois
+252,252,Toronto Blue Jays,Labatt Canadian Ale/Labatt 50
+253,253,Tampa Bay Rays,Samuel Adams Boston Lager
+254,254,Tampa Bay Rays,New Belgium Fat Tire Amber Ale
+255,255,Tampa Bay Rays,Blue Moon Belgian White
+256,256,Tampa Bay Rays,Batch 19
+257,257,Tampa Bay Rays,Leinenkugel's Summer Shandy 
