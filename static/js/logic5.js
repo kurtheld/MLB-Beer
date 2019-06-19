@@ -43,22 +43,23 @@ d3.json(queryUrl, function(data) {
     createFeatures(data);
 });
 
-var sMarker = [];
+var markerList = [];
 
 // For each stadium, create a marker and bind a popup with the station's name
 function createFeatures(data){
     
     data.forEach(d => {
-         console.log(d.lat, d.lng);
-        var sMarkers = L.marker([d.lat, d.lng])
-                .bindPopup("<h3>" + "Test" + "<h3>");
+        //  console.log(d.lat, d.lng);
+        var marker = L.marker([d.lat, d.lng])
+                .bindPopup("<h3>" + d.team + "<h3>");
 
     // Add the marker to the bikeMarkers array
-    sMarker.push(sMarkers);
+
+    markerList.push(marker);
     })
 
-console.log(sMarker);
+  console.log(markerList);
 
 // Create a layer group made from the bike markers array, pass it into the createMap function
-    createMap(L.layerGroup(sMarker));
+    createMap(L.layerGroup(markerList));
 }
