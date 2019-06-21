@@ -1,4 +1,5 @@
 alabaster==0.7.11
+anaconda==0.0.1.1
 anaconda-client==1.7.2
 anaconda-navigator==1.9.2
 anaconda-project==0.8.2
@@ -22,7 +23,7 @@ bokeh==0.13.0
 boto==2.49.0
 Bottleneck==1.2.1
 census==0.8.13
-certifi==2019.3.9
+certifi==2019.6.16
 cffi==1.11.5
 chardet==3.0.4
 citipy==0.0.5
