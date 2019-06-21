@@ -1,0 +1,3018 @@
+[
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Four Peaks Brewing Company",
+      "address": "1340 E 8th St #104, Tempe, AZ 85281",
+      "bLat": 33.419899,
+      "bLong": -111.915077
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Golden Road Brewing",
+      "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+      "bLat": 33.795521,
+      "bLong": -117.88501
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Stone Brewing Company",
+      "address": "2816 Historic Decatur Rd, San Diego, CA 92106",
+      "bLat": 32.740604,
+      "bLong": -117.211479
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Breckenridge Brewery",
+      "address": "2920 Brewery Ln, Littleton, CO 80120",
+      "bLat": 39.5937,
+      "bLong": -105.023491
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Boston Beer Company (Samuel Adams)",
+      "address": "30 Germania St, Boston, MA 02130",
+      "bLat": 42.314548,
+      "bLong": -71.102882
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "The Phoenix Ale Brewery",
+      "address": "3002 E Washington St, Phoenix, AZ 85034",
+      "bLat": 33.45004,
+      "bLong": -112.01691
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Grand Canyon Brewing Co.",
+      "address": "301 N 7th St, Williams, AZ 86046",
+      "bLat": 35.25156,
+      "bLong": -112.195969
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "SanTan Brewing Company",
+      "address": "8 S San Marcos Pl, Chandler, AZ 85225",
+      "bLat": 33.30324,
+      "bLong": -111.84255
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Barrio Brewing Co.",
+      "address": "800 E 16th St, Tucson, AZ 85719",
+      "bLat": 32.21442,
+      "bLong": -110.959534
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Ballast Point",
+      "address": "9045 Carroll Way, San Diego, CA 92121",
+      "bLat": 32.887871,
+      "bLong": -117.158119
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Saint Archer Brewing Co.",
+      "address": "9550 Distribution Ave, San Diego, CA 92121",
+      "bLat": 32.88036,
+      "bLong": -117.16387
+    },
+    {
+      "teams": "Arizona Diamondbacks",
+      "stadium": "Chase Field",
+      "brewery": "Hop Valley",
+      "address": "990 W 1st Ave, Eugene, OR 97402",
+      "bLat": 44.058201,
+      "bLong": -123.107529
+    },
+    {
+      "teams": "Atlanta Braves",
+      "stadium": "SunTrust Park",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Atlanta Braves",
+      "stadium": "SunTrust Park",
+      "brewery": "SweetWater Brewing Company",
+      "address": "195 Ottley Dr NE, Atlanta, GA 30324",
+      "bLat": 33.808079,
+      "bLong": -84.381187
+    },
+    {
+      "teams": "Atlanta Braves",
+      "stadium": "SunTrust Park",
+      "brewery": "Blue Point Brewing Company",
+      "address": "225 W Main St, Patchogue, NY 11772",
+      "bLat": 40.76651,
+      "bLong": -73.02124
+    },
+    {
+      "teams": "Atlanta Braves",
+      "stadium": "SunTrust Park",
+      "brewery": "Terrapin Beer Co.",
+      "address": "265 Newton Bridge Rd, Athens, GA 30607",
+      "bLat": 33.98052,
+      "bLong": -83.39662
+    },
+    {
+      "teams": "Atlanta Braves",
+      "stadium": "SunTrust Park",
+      "brewery": "D.G. Yuengling & Son, Inc.",
+      "address": "420 Mahantongo St, Pottsville, PA 17901",
+      "bLat": 40.68456,
+      "bLong": -76.19438
+    },
+    {
+      "teams": "Atlanta Braves",
+      "stadium": "SunTrust Park",
+      "brewery": "D.G. Yuengling & Son, Inc.",
+      "address": "420 Mahantongo St, Pottsville, PA 17901",
+      "bLat": 40.68456,
+      "bLong": -76.19438
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Monument City Brewing Co.",
+      "address": "1 N Haven St, Baltimore, MD 21224",
+      "bLat": 39.29285,
+      "bLong": -76.562599
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "The Brewer's Art",
+      "address": "1106 N Charles St, Baltimore, MD 21201",
+      "bLat": 39.30278,
+      "bLong": -76.616241
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Jacob Leinenkugel Brewing Company",
+      "address": "124 E Elm St, Chippewa Falls, WI 54729",
+      "bLat": 44.9423,
+      "bLong": -91.39638
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Dempsey's Brewing",
+      "address": "127 N Broadway, Watertown, SD 57201",
+      "bLat": 44.90291,
+      "bLong": -97.1141
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Fordham & Dominion Brewing Company",
+      "address": "1284 McD Dr, Dover, DE 19901",
+      "bLat": 39.13984,
+      "bLong": -75.49232
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Fordham & Dominion Brewing Company",
+      "address": "1284 McD Dr, Dover, DE 19901",
+      "bLat": 39.13984,
+      "bLong": -75.49232
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Union Craft Brewing",
+      "address": "1700 W 41st St #420, Baltimore, MD 21211",
+      "bLat": 39.3365184,
+      "bLong": -76.644992
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Anchor Brewing Company",
+      "address": "1705 Mariposa St, San Francisco, CA 94107",
+      "bLat": 37.763401,
+      "bLong": -122.4010175
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Evolution Craft Brewing",
+      "address": "201 E Vine St, Salisbury, MD 21801",
+      "bLat": 38.360471,
+      "bLong": -75.595628
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Key Brewing",
+      "address": "2500 Grays Rd, Dundalk, MD 21222",
+      "bLat": 39.244825,
+      "bLong": -76.463652
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Lagunitas Brewing Company",
+      "address": "2607 W 17th St, Chicago, IL 60608",
+      "bLat": 41.8577607,
+      "bLong": -87.6923518
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Stone Brewing Company",
+      "address": "2816 Historic Decatur Rd, San Diego, CA 92106",
+      "bLat": 32.740604,
+      "bLong": -117.211479
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Southern Tier Brewing Company",
+      "address": "316 N Shore Dr, Pittsburgh, PA 15212",
+      "bLat": 40.4464115,
+      "bLong": -80.008595
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Oskar Blues Brewery",
+      "address": "342 Mountain Industrial Dr, Brevard, NC 28712",
+      "bLat": 35.2536956,
+      "bLong": -82.7069595
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Oliver Brewing Co.",
+      "address": "4216 Shannon Dr, Baltimore, MD 21213",
+      "bLat": 39.3149018,
+      "bLong": -76.5531768
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Manor Hill Brewing",
+      "address": "4411 Manor Ln, Ellicott City, MD 21042",
+      "bLat": 39.266086,
+      "bLong": -76.891007
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Flying Dog Brewery",
+      "address": "4607 Wedgewood Blvd, Frederick, MD 21703",
+      "bLat": 39.3628322,
+      "bLong": -77.4267911
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Heavy Seas Beer",
+      "address": "4615 Hollins Ferry Rd, Halethorpe, MD 21227",
+      "bLat": 39.2320796,
+      "bLong": -76.6758041
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Lancaster Brewing Company",
+      "address": "469 Eisenhower Blvd, Harrisburg, PA 17111",
+      "bLat": 40.250117,
+      "bLong": -76.81344
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Full Sail Brewing Company",
+      "address": "506 Columbia St, Hood River, OR 97031",
+      "bLat": 45.7103601,
+      "bLong": -121.516566
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Starr Hill Brewery",
+      "address": "5391 Three Notch'd Rd, Crozet, VA 22932",
+      "bLat": 38.068968,
+      "bLong": -78.694661
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Dogfish Head Craft Brewery",
+      "address": "6 Cannery Village Center, Milton, DE 19968",
+      "bLat": 38.7671166,
+      "bLong": -75.3113509
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Dogfish Head Craft Brewery",
+      "address": "6 Cannery Village Center, Milton, DE 19968",
+      "bLat": 38.7671166,
+      "bLong": -75.3113509
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "RavenBeer",
+      "address": "8901 Yellow Brick Rd suite b, Baltimore, MD 21237",
+      "bLat": 39.3405835,
+      "bLong": -76.4783348
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "RavenBeer",
+      "address": "8901 Yellow Brick Rd suite b, Baltimore, MD 21237",
+      "bLat": 39.3405835,
+      "bLong": -76.4783348
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Jailbreak Brewing Company",
+      "address": "9445 Washington Boulevard North F, Laurel, MD 20723",
+      "bLat": 39.126653,
+      "bLong": -76.822589
+    },
+    {
+      "teams": "Baltimore Orioles",
+      "stadium": "Oriole Park at Camden Yards",
+      "brewery": "Band of Brewers",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "Boston Red Sox",
+      "stadium": "Fenway Park",
+      "brewery": "Smuttynose Brewing Company",
+      "address": "105 Towle Farm Rd, Hampton, NH 03842",
+      "bLat": 42.94186,
+      "bLong": -70.86751
+    },
+    {
+      "teams": "Boston Red Sox",
+      "stadium": "Fenway Park",
+      "brewery": "Wachusett Brewing Company",
+      "address": "175 State Rd E, Westminster, MA 01473",
+      "bLat": 42.5585037,
+      "bLong": -71.8707504
+    },
+    {
+      "teams": "Boston Red Sox",
+      "stadium": "Fenway Park",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Boston Red Sox",
+      "stadium": "Fenway Park",
+      "brewery": "Boston Beer Company (Samuel Adams)",
+      "address": "30 Germania St, Boston, MA 02130",
+      "bLat": 42.314548,
+      "bLong": -71.102882
+    },
+    {
+      "teams": "Boston Red Sox",
+      "stadium": "Fenway Park",
+      "brewery": "Harpoon Brewery & Beer Hall",
+      "address": "306 Northern Ave, Boston, MA 02210",
+      "bLat": 42.3465637,
+      "bLong": -71.0348293
+    },
+    {
+      "teams": "Boston Red Sox",
+      "stadium": "Fenway Park",
+      "brewery": "Cisco Brewers Inc.",
+      "address": "5 Bartlett Farm Rd, Nantucket, MA 02554",
+      "bLat": 41.2631674,
+      "bLong": -70.131432
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Begyle",
+      "address": "1800 W Cuyler Ave, Chicago, IL 60613",
+      "bLat": 41.9553987,
+      "bLong": -87.6745486
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Golden Road Brewing",
+      "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+      "bLat": 33.795521,
+      "bLong": -117.88501
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Broken Bat Brewing Co.",
+      "address": "231 E Buffalo St, Milwaukee, WI 53202",
+      "bLat": 43.0335562,
+      "bLong": -87.9080198
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Revolution Brewing",
+      "address": "2323 N Milwaukee Ave, Chicago, IL 60647",
+      "bLat": 41.923586,
+      "bLong": -87.6981447
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Half Acre Beer Company",
+      "address": "4257 N Lincoln Ave, Chicago, IL 60618",
+      "bLat": 41.9591945,
+      "bLong": -87.6820201
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Brooklyn",
+      "address": "79 N 11th St, Brooklyn, NY 11249",
+      "bLat": 40.7214424,
+      "bLong": -73.9573563
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "Cruz Banca",
+      "address": "904 W Randolph St, Chicago, IL 60607",
+      "bLat": 41.8846013,
+      "bLong": -87.6501403
+    },
+    {
+      "teams": "Chicago Cubs",
+      "stadium": "Wrigley Field",
+      "brewery": "3 Floyds",
+      "address": "9750 Indiana Pkwy, Munster, IN 46321",
+      "bLat": 41.534732,
+      "bLong": -87.51583
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Rogue Brewing",
+      "address": "2320 SE Marine Science Dr, Newport, OR 97365",
+      "bLat": 44.6193044,
+      "bLong": -124.0495876
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Revolution Brewing",
+      "address": "2323 N Milwaukee Ave, Chicago, IL 60647",
+      "bLat": 41.923586,
+      "bLong": -87.6981447
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Revolution Brewing",
+      "address": "2323 N Milwaukee Ave, Chicago, IL 60647",
+      "bLat": 41.923586,
+      "bLong": -87.6981447
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Lagunitas Brewing Company",
+      "address": "2607 W 17th St, Chicago, IL 60608",
+      "bLat": 41.8577607,
+      "bLong": -87.6923518
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Half Acre Beer Company",
+      "address": "4257 N Lincoln Ave, Chicago, IL 60618",
+      "bLat": 41.9591945,
+      "bLong": -87.6820201
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Two Brothers Tap House and Brewery",
+      "address": "4321 N Scottsdale Rd, Scottsdale, AZ 85251",
+      "bLat": 33.6688016,
+      "bLong": -111.9253721
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "350 Brewing",
+      "address": "7144 183rd St, Tinley Park, IL 60477",
+      "bLat": 41.5586473,
+      "bLong": -87.7916029
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "Noon Whistle Brewing",
+      "address": "800 Roosevelt Rd c, Lombard, IL 60148",
+      "bLat": 41.8605454,
+      "bLong": -87.9904354
+    },
+    {
+      "teams": "Chicago White Sox",
+      "stadium": "Guaranteed Rate Field",
+      "brewery": "3 Floyds",
+      "address": "9750 Indiana Pkwy, Munster, IN 46321",
+      "bLat": 41.534732,
+      "bLong": -87.51583
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Jacob Leinenkugel Brewing Company",
+      "address": "124 E Elm St, Chippewa Falls, WI 54729",
+      "bLat": 44.9423,
+      "bLong": -91.39638
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Taft's Ale House",
+      "address": "1429 Race St, Cincinnati, OH 45202",
+      "bLat": 39.111325,
+      "bLong": -84.51751
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Taft's Ale House",
+      "address": "1429 Race St, Cincinnati, OH 45202",
+      "bLat": 39.111325,
+      "bLong": -84.51751
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Listermann Brewing Company",
+      "address": "1621 Dana Ave, Cincinnati, OH 45207",
+      "bLat": 39.1463506,
+      "bLong": -84.4721318
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Christian Moerlein Brewing Company",
+      "address": "1621 Moore St, Cincinnati, OH 45202",
+      "bLat": 39.1132251,
+      "bLong": -84.5153343
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Christian Moerlein Brewing Co.",
+      "address": "1621 Moore St, Cincinnati, OH 45202",
+      "bLat": 39.1132251,
+      "bLong": -84.5153343
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Rhinegeist Brewery",
+      "address": "1910 Elm St, Cincinnati, OH 45202",
+      "bLat": 39.1172,
+      "bLong": -84.5199208
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "SweetWater Brewing Company",
+      "address": "195 Ottley Dr NE, Atlanta, GA 30324",
+      "bLat": 33.808079,
+      "bLong": -84.381187
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "21st Amendment Brewery",
+      "address": "2010 Williams St, San Leandro, CA 94577",
+      "bLat": 37.7106085,
+      "bLong": -122.176798
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Founders Brewing Company",
+      "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+      "bLat": 42.9524964,
+      "bLong": -85.6765753
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Warped Wing Brewing Company",
+      "address": "26 Wyandot St, Dayton, OH 45402",
+      "bLat": 39.760058,
+      "bLong": -84.18613
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Braxton Brewing",
+      "address": "27 W 7th St, Covington, KY 41011",
+      "bLat": 39.0829251,
+      "bLong": -84.5108076
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Boston Beer Company (Samuel Adams)",
+      "address": "30 Germania St, Boston, MA 02130",
+      "bLat": 42.314548,
+      "bLong": -71.102882
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Deschutes Brewery",
+      "address": "315 Market St SE, Roanoke, VA 24011",
+      "bLat": 37.2709487,
+      "bLong": -79.9391837
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "MadTree Brewing",
+      "address": "3301 Madison Rd, Cincinnati, OH 45209",
+      "bLat": 39.1563725,
+      "bLong": -84.4239715
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Bell's Brewery",
+      "address": "355 E Kalamazoo Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2949155,
+      "bLong": -85.5788729
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Alltech's Lexington Brewing and Distilling Co.",
+      "address": "401 Cross St, Lexington, KY 40508",
+      "bLat": 38.049763,
+      "bLong": -84.509506
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "D.G. Yuengling & Son, Inc.",
+      "address": "420 Mahantongo St, Pottsville, PA 17901",
+      "bLat": 40.68456,
+      "bLong": -76.19438
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Mt. Carmel Brewing Company",
+      "address": "4362 Mt Carmel Tobasco Rd, Cincinnati, OH 45244",
+      "bLat": 39.093672,
+      "bLong": -84.300606
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Rivertown Brewery & Barrel House",
+      "address": "6550 Hamilton Lebanon Rd, Middletown, OH 45044",
+      "bLat": 39.445653,
+      "bLong": -84.410095
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Fifty West Brewing Company",
+      "address": "7668 Wooster Pike, Cincinnati, OH 45227",
+      "bLat": 39.130695,
+      "bLong": -84.404663
+    },
+    {
+      "teams": "Cincinnati Reds",
+      "stadium": "Great American Ball Park",
+      "brewery": "Hudy",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Fat Head's Brewing",
+      "address": "17450 Engle, Lake Abram Dr, Middleburg Heights, OH 44130",
+      "bLat": 41.378005,
+      "bLong": -81.821747
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Rhinegeist Brewery",
+      "address": "1910 Elm St, Cincinnati, OH 45202",
+      "bLat": 39.1172,
+      "bLong": -84.5199208
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Great Lakes Brewing Co.",
+      "address": "2516 Market Ave, Cleveland, OH 44113",
+      "bLat": 41.4844172,
+      "bLong": -81.7044266
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Market Garden Brewery",
+      "address": "3418, 1947 W 25th St, Cleveland, OH 44113",
+      "bLat": 41.469926,
+      "bLong": -81.699717
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Bell's Brewery",
+      "address": "355 E Kalamazoo Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2949155,
+      "bLong": -85.5788729
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Dogfish Head Craft Brewery",
+      "address": "6 Cannery Village Center, Milton, DE 19968",
+      "bLat": 38.7671166,
+      "bLong": -75.3113509
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "Brew Kettle",
+      "address": "8377 Pearl Rd, Strongsville, OH 44136",
+      "bLat": 41.3471323,
+      "bLong": -81.8224061
+    },
+    {
+      "teams": "Cleveland Indians",
+      "stadium": "Progressive Field",
+      "brewery": "The Brew Kettle Brewery",
+      "address": "8377 Pearl Rd, Strongsville, OH 44136",
+      "bLat": 41.3471323,
+      "bLong": -81.8224061
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Left Hand Brewing",
+      "address": "1265 Boston Ave, Longmont, CO 80501",
+      "bLat": 40.158298,
+      "bLong": -105.115318
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Upslope Brewing",
+      "address": "1898 S Flatiron Ct, Boulder, CO 80301",
+      "bLat": 40.0198479,
+      "bLong": -105.217922
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Great Divide Brewing Co.",
+      "address": "2201 Arapahoe St, Denver, CO 80205",
+      "bLat": 39.7539229,
+      "bLong": -104.9885279
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Boulder Beer Company",
+      "address": "2880 Wilderness Pl, Boulder, CO 80301",
+      "bLat": 40.026439,
+      "bLong": -105.2480158
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Oskar Blues Brewery",
+      "address": "342 Mountain Industrial Dr, Brevard, NC 28712",
+      "bLat": 35.2536956,
+      "bLong": -82.7069595
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Avery Brewing Company",
+      "address": "4910 Nautilus Ct N, Boulder, CO 80301",
+      "bLat": 40.0625835,
+      "bLong": -105.2047652
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Odell Brewing Company",
+      "address": "800 E Lincoln Ave, Fort Collins, CO 80524",
+      "bLat": 40.5895239,
+      "bLong": -105.0633327
+    },
+    {
+      "teams": "Colorado Rockies",
+      "stadium": "Coors Field",
+      "brewery": "Sandlot Brewery",
+      "address": "Blake St, Denver, CO 80205",
+      "bLat": 39.7609,
+      "bLong": -104.986
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Cheboygan",
+      "address": "101 N Main St, Cheboygan, MI 49721",
+      "bLat": 45.64491,
+      "bLong": -84.47658
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Old Nation Brewery",
+      "address": "1500 E Grand River Ave, Williamston, MI 48895",
+      "bLat": 42.6855382,
+      "bLong": -84.2654577
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Grand Armory",
+      "address": "17 S 2nd St, Grand Haven, MI 49417",
+      "bLat": 43.0637876,
+      "bLong": -86.2312558
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Atwater",
+      "address": "201 Michigan St NW, Grand Rapids, MI 49503",
+      "bLat": 42.970463,
+      "bLong": -85.672454
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Founders Brewing Company",
+      "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+      "bLat": 42.9524964,
+      "bLong": -85.6765753
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Red Jacket Brewing Co.",
+      "address": "300 6th St, Calumet, MI 49913",
+      "bLat": 47.2464521,
+      "bLong": -88.4535254
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Bell's Brewery",
+      "address": "355 E Kalamazoo Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2949155,
+      "bLong": -85.5788729
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Keweenaw Brewing",
+      "address": "408 Shelden Ave, Houghton, MI 49931",
+      "bLat": 47.1219857,
+      "bLong": -88.5687729
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Motor City Brewing Works",
+      "address": "470 W Canfield St, Detroit, MI 48201",
+      "bLat": 42.3518156,
+      "bLong": -83.0660373
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Arcadia",
+      "address": "701 E Michigan Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2950789,
+      "bLong": -85.5715368
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Arbor Brewing Co.",
+      "address": "720 Norris St, Ypsilanti, MI 48198",
+      "bLat": 42.2496554,
+      "bLong": -83.6102103
+    },
+    {
+      "teams": "Detroit Tigers",
+      "stadium": "Comerica Park",
+      "brewery": "Brewery Vivant",
+      "address": "925 Cherry St SE, Grand Rapids, MI 49506",
+      "bLat": 42.9598881,
+      "bLong": -85.6459618
+    },
+    {
+      "teams": "Houston Astros",
+      "stadium": "Minute Maid Park",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Houston Astros",
+      "stadium": "Minute Maid Park",
+      "brewery": "Saint Arnold Brewing Company",
+      "address": "2000 Lyons Ave, Houston, TX 77020",
+      "bLat": 29.7711237,
+      "bLong": -95.3484665
+    },
+    {
+      "teams": "Houston Astros",
+      "stadium": "Minute Maid Park",
+      "brewery": "Karbach Brewing Co.",
+      "address": "2032 Karbach St, Houston, TX 77092",
+      "bLat": 29.8063812,
+      "bLong": -95.4605283
+    },
+    {
+      "teams": "Houston Astros",
+      "stadium": "Minute Maid Park",
+      "brewery": "8th Wonder",
+      "address": "2202 Dallas St, Houston, TX 77003",
+      "bLat": 29.7487783,
+      "bLong": -95.3559402
+    },
+    {
+      "teams": "Houston Astros",
+      "stadium": "Minute Maid Park",
+      "brewery": "Shiner Brewery",
+      "address": "603 E Brewery St, Shiner, TX 77984",
+      "bLat": 29.42254,
+      "bLong": -97.153946
+    },
+    {
+      "teams": "Houston Astros",
+      "stadium": "Minute Maid Park",
+      "brewery": "Eureka",
+      "address": "941 W 18th St, Houston, TX 77008",
+      "bLat": 29.8019913,
+      "bLong": -95.4164348
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Mother's Brewing Company",
+      "address": "215 S Grant Ave, Springfield, MO 65806",
+      "bLat": 37.2079174,
+      "bLong": -93.2992828
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Founders Brewing Company",
+      "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+      "bLat": 42.9524964,
+      "bLong": -85.6765753
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Boulevard Brewing Co.",
+      "address": "2501 Southwest Blvd, Kansas City, MO 64108",
+      "bLat": 39.0819635,
+      "bLong": -94.5968231
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Boulevard Brewing Co.",
+      "address": "2501 Southwest Blvd, Kansas City, MO 64108",
+      "bLat": 39.0819635,
+      "bLong": -94.5968231
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Breckenridge Brewery",
+      "address": "2920 Brewery Ln, Littleton, CO 80120",
+      "bLat": 39.5937,
+      "bLong": -105.023491
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Harpoon Brewery & Beer Hall",
+      "address": "306 Northern Ave, Boston, MA 02210",
+      "bLat": 42.3465637,
+      "bLong": -71.0348293
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Kansas City Bier Company",
+      "address": "310 W 79th St, Kansas City, MO 64114",
+      "bLat": 38.9854848,
+      "bLong": -94.5936712
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Deschutes Brewery",
+      "address": "315 Market St SE, Roanoke, VA 24011",
+      "bLat": 37.2709487,
+      "bLong": -79.9391837
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Sante Fe Brewing",
+      "address": "35 Fire Pl, Santa Fe, NM 87508",
+      "bLat": 35.596542,
+      "bLong": -106.0515883
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Avery Brewing Company",
+      "address": "4910 Nautilus Ct N, Boulder, CO 80301",
+      "bLat": 40.0625835,
+      "bLong": -105.2047652
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Martin City Brewing Company",
+      "address": "500 E 135th St, Kansas City, MO 64145",
+      "bLat": 38.8827467,
+      "bLong": -94.589822
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "River North Brewery",
+      "address": "6021 Washington St a, Denver, CO 80216",
+      "bLat": 39.712914,
+      "bLong": -104.9792501
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Schlafly Bottleworks",
+      "address": "7260 Southwest Ave, Maplewood, MO 63143",
+      "bLat": 38.613381,
+      "bLong": -90.3149399
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Brouwerij Duvel Moortgat NV",
+      "address": "Breendonk-Dorp 58, 2870 Puurs, Belgium",
+      "bLat": 51.042933,
+      "bLong": 4.3261157
+    },
+    {
+      "teams": "Kansas City Royals",
+      "stadium": "Kauffman Stadium",
+      "brewery": "Sol Chelada",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Coronado Brewing",
+      "address": "1205 Knoxville St, San Diego, CA 92110",
+      "bLat": 32.77177,
+      "bLong": -117.20468
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Left Coast Brewing Co.",
+      "address": "1245 Puerta Del Sol, San Clemente, CA 92673",
+      "bLat": 33.45776,
+      "bLong": -117.58886
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Towne Park Brewery & Taproom",
+      "address": "1566 W Lincoln Ave, Anaheim, CA 92801",
+      "bLat": 33.832497,
+      "bLong": -117.93678
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Hangar 24 Brewing",
+      "address": "1710 Sessums Dr, Redlands, CA 92374",
+      "bLat": 34.0831712,
+      "bLong": -117.1419134
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Santa Monica Brew Works",
+      "address": "1920 Colorado Ave C, Santa Monica, CA 90404",
+      "bLat": 34.0256983,
+      "bLong": -118.4770896
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Arrogant Consortia",
+      "address": "1999 Citracado Parkway, Escondido, CA 92029",
+      "bLat": 33.11057,
+      "bLong": -117.119947
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Golden Road Brewing",
+      "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+      "bLat": 33.795521,
+      "bLong": -117.88501
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Chihuahua Rico",
+      "address": "3107 Newport Blvd, Newport Beach, CA 92663",
+      "bLat": 33.6156843,
+      "bLong": -117.9305113
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Modern Times",
+      "address": "3725 Greenwood St, San Diego, CA 92110",
+      "bLat": 32.754233,
+      "bLong": -117.206153
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Bootlegger's Brewery",
+      "address": "696 Randolph Ave ste b, Costa Mesa, CA 92626",
+      "bLat": 33.676681,
+      "bLong": -117.8861597
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Artifex",
+      "address": "919 Calle Amanecer A, San Clemente, CA 92673",
+      "bLat": 33.4497548,
+      "bLong": -117.6088992
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Saint Archer Brewing Co.",
+      "address": "9550 Distribution Ave, San Diego, CA 92121",
+      "bLat": 32.88036,
+      "bLong": -117.16387
+    },
+    {
+      "teams": "Los Angeles Angels of Anaheim",
+      "stadium": "Angel Stadium",
+      "brewery": "Karl Strauss Brewing Company",
+      "address": "9675 Scranton Rd, San Diego, CA 92121",
+      "bLat": 32.8963457,
+      "bLong": -117.2027066
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Coronado Brewing",
+      "address": "1205 Knoxville St, San Diego, CA 92110",
+      "bLat": 32.77177,
+      "bLong": -117.20468
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Anchor Brewing Company",
+      "address": "1705 Mariposa St, San Francisco, CA 94107",
+      "bLat": 37.763401,
+      "bLong": -122.4010175
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Santa Monica Brew Works",
+      "address": "1920 Colorado Ave C, Santa Monica, CA 90404",
+      "bLat": 34.0256983,
+      "bLong": -118.4770896
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Angel City Brewery",
+      "address": "216 S Alameda St, Los Angeles, CA 90012",
+      "bLat": 34.0462706,
+      "bLong": -118.237715
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Golden Road Brewing",
+      "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+      "bLat": 33.795521,
+      "bLong": -117.88501
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Lagunitas Brewing Company",
+      "address": "2607 W 17th St, Chicago, IL 60608",
+      "bLat": 41.8577607,
+      "bLong": -87.6923518
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Stone Brewing Company",
+      "address": "2816 Historic Decatur Rd, San Diego, CA 92106",
+      "bLat": 32.740604,
+      "bLong": -117.211479
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Garage Brewing",
+      "address": "29095 Old Town Front St, Temecula, CA 92590",
+      "bLat": 33.4902132,
+      "bLong": -117.145882
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Firestone Walker Brewing Co.",
+      "address": "3993, 1400 Ramada Dr, Paso Robles, CA 93446",
+      "bLat": 35.568763,
+      "bLong": -120.699865
+    },
+    {
+      "teams": "Los Angeles Dodgers",
+      "stadium": "Dodger Stadium",
+      "brewery": "Ballast Point",
+      "address": "9045 Carroll Way, San Diego, CA 92121",
+      "bLat": 32.887871,
+      "bLong": -117.158119
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "SweetWater Brewing Company",
+      "address": "195 Ottley Dr NE, Atlanta, GA 30324",
+      "bLat": 33.808079,
+      "bLong": -84.381187
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "Concrete Beach",
+      "address": "325 NW 24th St, Miami, FL 33127",
+      "bLat": 25.800253,
+      "bLong": -80.2009157
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "D.G. Yuengling & Son, Inc.",
+      "address": "420 Mahantongo St, Pottsville, PA 17901",
+      "bLat": 40.68456,
+      "bLong": -76.19438
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "Veza Sur Brewing",
+      "address": "55 NW 25th St, Miami, FL 33127",
+      "bLat": 25.8010656,
+      "bLong": -80.1962255
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "Biscayne Bay Brewery",
+      "address": "8000 NW 25th St #500, Doral, FL 33122",
+      "bLat": 25.7958385,
+      "bLong": -80.3263256
+    },
+    {
+      "teams": "Miami Marlins",
+      "stadium": "Marlins Park",
+      "brewery": "Litehaus Pilsner",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Wisconsin Brewing Company",
+      "address": "1079 American Way, Verona, WI 53593",
+      "bLat": 42.96881,
+      "bLong": -89.50899
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Jacob Leinenkugel Brewing Company",
+      "address": "124 E Elm St, Chippewa Falls, WI 54729",
+      "bLat": 44.9423,
+      "bLong": -91.39638
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Third Space Brewing",
+      "address": "1505 W St Paul Ave, Milwaukee, WI 53233",
+      "bLat": 43.0345189,
+      "bLong": -87.9323776
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Raised Grain Brewing Co.",
+      "address": "1725 Dolphin Dr Ste B, Waukesha, WI 53186",
+      "bLat": 43.0173982,
+      "bLong": -88.1992489
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Lakefront Brewery",
+      "address": "1872 N Commerce St, Milwaukee, WI 53212",
+      "bLat": 43.0547707,
+      "bLong": -87.9051461
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Titletown Brewing Company",
+      "address": "200 Dousman St, Green Bay, WI 54303",
+      "bLat": 44.5194355,
+      "bLong": -88.0178592
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "One Barrel Brewing",
+      "address": "2001 Atwood Ave, Madison, WI 53704",
+      "bLat": 43.0918098,
+      "bLong": -89.3549948
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "New Glarus Brewing",
+      "address": "2400 WI-69, New Glarus, WI 53574",
+      "bLat": 42.8209344,
+      "bLong": -89.6334067
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "New Glarus Brewing Company",
+      "address": "2400 WI-69, New Glarus, WI 53574",
+      "bLat": 42.8209344,
+      "bLong": -89.6334067
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Terrapin Beer Co.",
+      "address": "265 Newton Bridge Rd, Athens, GA 30607",
+      "bLat": 33.98052,
+      "bLong": -83.39662
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Central Water Brewing",
+      "address": "351 Allen St, Amherst, WI 54406",
+      "bLat": 44.4421941,
+      "bLong": -89.2797349
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Bell's Brewery",
+      "address": "355 E Kalamazoo Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2949155,
+      "bLong": -85.5788729
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Fox River Brewery",
+      "address": "4301 W Wisconsin Ave, Appleton, WI 54913",
+      "bLat": 44.2731545,
+      "bLong": -88.4358336
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Milwaukee Brewing Company",
+      "address": "613 S 2nd St, Milwaukee, WI 53204",
+      "bLat": 43.0250114,
+      "bLong": -87.9128665
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Sprecher Brewery",
+      "address": "701 W Glendale Ave, Milwaukee, WI 53209",
+      "bLat": 43.0992987,
+      "bLong": -87.9196951
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Hofbrau",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "Milwaukee Brewers",
+      "stadium": "Miller Park",
+      "brewery": "Tierra Buena",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Grainbelt Brewing",
+      "address": "1220 Marshall St NE, Minneapolis, MN 55413",
+      "bLat": 44.99941,
+      "bLong": -93.27056
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Castle Brewing",
+      "address": "1310 W Washington St, Greenville, MI 48838",
+      "bLat": 43.17767,
+      "bLong": -85.27278
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Bauhaus Brewery",
+      "address": "1315 Tyler St NE, Minneapolis, MN 55413",
+      "bLat": 45.0014,
+      "bLong": -93.246094
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Bent Paddle",
+      "address": "1832 W Michigan St, Duluth, MN 55806",
+      "bLat": 46.7689984,
+      "bLong": -92.1202372
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Lift Bridge Brewery",
+      "address": "1900 Tower Dr W, Stillwater, MN 55082",
+      "bLat": 45.0391054,
+      "bLong": -92.8317848
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Beaver Island",
+      "address": "216 6th Ave S, St Cloud, MN 56301",
+      "bLat": 45.5586054,
+      "bLong": -94.1569743
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Third Street Brewhouse",
+      "address": "219 Red River Ave N, Cold Spring, MN 56320",
+      "bLat": 45.458574,
+      "bLong": -94.429114
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Fair State Brewing Cooperative",
+      "address": "2506 Central Ave NE, Minneapolis, MN 55418",
+      "bLat": 45.0135434,
+      "bLong": -93.2476008
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Waconia Brewing Company",
+      "address": "255 W Main St, Waconia, MN 55387",
+      "bLat": 44.8503,
+      "bLong": -93.78245
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Fulton Brewing Taproom",
+      "address": "414 N 6th Ave, Minneapolis, MN 55401",
+      "bLat": 44.9842709,
+      "bLong": -93.2795926
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Modist Brewing Co.",
+      "address": "505 N 3rd St, Minneapolis, MN 55401",
+      "bLat": 44.9816901,
+      "bLong": -93.2708126
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Surly Brewing Company",
+      "address": "520 Malcolm Ave SE, Minneapolis, MN 55414",
+      "bLat": 44.974285,
+      "bLong": -93.211203
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Indeed Brewing Company",
+      "address": "711 NE 15th Ave, Minneapolis, MN 55413",
+      "bLat": 45.0033817,
+      "bLong": -93.2515432
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "Summit Brewing Company",
+      "address": "910 Montreal Cir, St Paul, MN 55102",
+      "bLat": 44.9139877,
+      "bLong": -93.1395981
+    },
+    {
+      "teams": "Minnesota Twins",
+      "stadium": "Target Field",
+      "brewery": "North Lake Brewing Company",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Queens Brewery",
+      "address": "1539 Covert St, Ridgewood, NY 11385",
+      "bLat": 40.6949116,
+      "bLong": -73.9042851
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Coney Island Brewery",
+      "address": "1904 Surf Ave, Brooklyn, NY 11224",
+      "bLat": 40.5750266,
+      "bLong": -73.9857237
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Five Boroughs",
+      "address": "215 47th St, Brooklyn, NY 11220",
+      "bLat": 40.6505216,
+      "bLong": -74.0144263
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Blue Point Brewing Company",
+      "address": "225 W Main St, Patchogue, NY 11772",
+      "bLat": 40.76651,
+      "bLong": -73.02124
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Founders Brewing Company",
+      "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+      "bLat": 42.9524964,
+      "bLong": -85.6765753
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Southern Tier Brewing Company",
+      "address": "316 N Shore Dr, Pittsburgh, PA 15212",
+      "bLat": 40.4464115,
+      "bLong": -80.008595
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Oyster Bay Brewing Company",
+      "address": "36 Audrey Ave, Oyster Bay, NY 11771",
+      "bLat": 40.8730497,
+      "bLong": -73.5314032
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "LIC Beer Project",
+      "address": "39-28 23rd St, Long Island City, NY 11101",
+      "bLat": 40.7548039,
+      "bLong": -73.9392521
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "LIC Beer Project",
+      "address": "39-28 23rd St, Long Island City, NY 11101",
+      "bLat": 40.7548039,
+      "bLong": -73.9392521
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Sixpoint Brewery",
+      "address": "40 Van Dyke St, Brooklyn, NY 11231",
+      "bLat": 40.6739726,
+      "bLong": -74.0119176
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Montauk Brewing",
+      "address": "62 S Erie Ave, Montauk, NY 11954",
+      "bLat": 41.0366959,
+      "bLong": -71.9440878
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Mikkeller Brewing",
+      "address": "9366 Cabot Dr, San Diego, CA 92126",
+      "bLat": 32.8914631,
+      "bLong": -117.144171
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Interboro",
+      "address": "942 Grand St, Brooklyn, NY 11211",
+      "bLat": 40.713373,
+      "bLong": -73.934802
+    },
+    {
+      "teams": "New York Mets",
+      "stadium": "Citi Field",
+      "brewery": "Spaten-Franziskaner-Br?u",
+      "address": "Marsstrasse 46-48, 80335 Munchen, Germany",
+      "bLat": 48.1425891,
+      "bLong": 11.560093
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "Angry Orchard",
+      "address": "2241 Albany Post Rd, Walden, NY 12586",
+      "bLat": 41.586968,
+      "bLong": -74.221158
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "Blue Point Brewing Company",
+      "address": "225 W Main St, Patchogue, NY 11772",
+      "bLat": 40.76651,
+      "bLong": -73.02124
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "Boston Beer Company (Samuel Adams)",
+      "address": "30 Germania St, Boston, MA 02130",
+      "bLat": 42.314548,
+      "bLong": -71.102882
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "Catskill Brewery",
+      "address": "672 Old Rte 17, Livingston Manor, NY 12758",
+      "bLat": 41.911407,
+      "bLong": -74.827173
+    },
+    {
+      "teams": "New York Yankees",
+      "stadium": "Yankee Stadium",
+      "brewery": "The Bronx Brewery",
+      "address": "856 E 136th St, The Bronx, NY 10454",
+      "bLat": 40.801861,
+      "bLong": -73.9106405
+    },
+    {
+      "teams": "Oakland Athletics",
+      "stadium": "RingCentral Coliseum",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "Oakland Athletics",
+      "stadium": "RingCentral Coliseum",
+      "brewery": "Trumer Brauerei Berkeley",
+      "address": "1404 Fourth St, Berkeley, CA 94710",
+      "bLat": 37.87674,
+      "bLong": -122.30344
+    },
+    {
+      "teams": "Oakland Athletics",
+      "stadium": "RingCentral Coliseum",
+      "brewery": "Drake's Brewing Co.",
+      "address": "1933 Davis St #177, San Leandro, CA 94577",
+      "bLat": 37.7244651,
+      "bLong": -122.1602239
+    },
+    {
+      "teams": "Oakland Athletics",
+      "stadium": "RingCentral Coliseum",
+      "brewery": "Strike Brewing Co.",
+      "address": "2099 S 10th St #30, San Jose, CA 95112",
+      "bLat": 37.309485,
+      "bLong": -121.855781
+    },
+    {
+      "teams": "Oakland Athletics",
+      "stadium": "RingCentral Coliseum",
+      "brewery": "Lagunitas Brewing Company",
+      "address": "2607 W 17th St, Chicago, IL 60608",
+      "bLat": 41.8577607,
+      "bLong": -87.6923518
+    },
+    {
+      "teams": "Oakland Athletics",
+      "stadium": "RingCentral Coliseum",
+      "brewery": "Firestone Walker Brewing Co.",
+      "address": "3993, 1400 Ramada Dr, Paso Robles, CA 93446",
+      "bLat": 35.568763,
+      "bLong": -120.699865
+    },
+    {
+      "teams": "Philadelphia Phillies",
+      "stadium": "Citizens Bank Park",
+      "brewery": "Troegs Independent Brewing",
+      "address": "200 Hersheypark Dr, Hershey, PA 17033",
+      "bLat": 40.2980147,
+      "bLong": -76.6433861
+    },
+    {
+      "teams": "Philadelphia Phillies",
+      "stadium": "Citizens Bank Park",
+      "brewery": "Sly Fox Brewing Company",
+      "address": "331 Circle of Progress Dr, Pottstown, PA 19464",
+      "bLat": 40.2633893,
+      "bLong": -75.6663231
+    },
+    {
+      "teams": "Philadelphia Phillies",
+      "stadium": "Citizens Bank Park",
+      "brewery": "Victory Brewing Company",
+      "address": "420 Acorn Ln, Downingtown, PA 19335",
+      "bLat": 40.0051117,
+      "bLong": -75.6940069
+    },
+    {
+      "teams": "Philadelphia Phillies",
+      "stadium": "Citizens Bank Park",
+      "brewery": "Yards Brewing Company",
+      "address": "500 Spring Garden St, Philadelphia, PA 19123",
+      "bLat": 39.9606683,
+      "bLong": -75.1471214
+    },
+    {
+      "teams": "Philadelphia Phillies",
+      "stadium": "Citizens Bank Park",
+      "brewery": "Brewery Ommegang",
+      "address": "656 Co Hwy 33, Cooperstown, NY 13326",
+      "bLat": 42.753418,
+      "bLong": -74.855063
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "North Country Brewing Co",
+      "address": "141 S Main St, Slippery Rock, PA 16057",
+      "bLat": 41.06378,
+      "bLong": -80.05564
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Lagunitas Brewing Company",
+      "address": "2607 W 17th St, Chicago, IL 60608",
+      "bLat": 41.8577607,
+      "bLong": -87.6923518
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Southern Tier Brewing Company",
+      "address": "316 N Shore Dr, Pittsburgh, PA 15212",
+      "bLat": 40.4464115,
+      "bLong": -80.008595
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Bell's Brewery",
+      "address": "355 E Kalamazoo Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2949155,
+      "bLong": -85.5788729
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Cigar City Brewing Company",
+      "address": "3924 W Spruce St, Tampa, FL 33607",
+      "bLat": 27.959172,
+      "bLong": -82.509195
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Victory Brewing Company",
+      "address": "420 Acorn Ln, Downingtown, PA 19335",
+      "bLat": 40.0051117,
+      "bLong": -75.6940069
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "D.G. Yuengling & Son, Inc.",
+      "address": "420 Mahantongo St, Pottsville, PA 17901",
+      "bLat": 40.68456,
+      "bLong": -76.19438
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Rusty Rail Brewing Company",
+      "address": "5 N 8th St #1, Mifflinburg, PA 17844",
+      "bLat": 40.915776,
+      "bLong": -77.0529947
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Dogfish Head Craft Brewery",
+      "address": "6 Cannery Village Center, Milton, DE 19968",
+      "bLat": 38.7671166,
+      "bLong": -75.3113509
+    },
+    {
+      "teams": "Pittsburgh Pirates",
+      "stadium": "PNC Park",
+      "brewery": "Troegs Independent Brewing",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Coronado Brewing",
+      "address": "1205 Knoxville St, San Diego, CA 92110",
+      "bLat": 32.77177,
+      "bLong": -117.20468
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Stone Brewing Company",
+      "address": "2816 Historic Decatur Rd, San Diego, CA 92106",
+      "bLat": 32.740604,
+      "bLong": -117.211479
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Mike Hess Brewing",
+      "address": "3812 Grim Ave, San Diego, CA 92104",
+      "bLat": 32.7477063,
+      "bLong": -117.128479
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Green Flash Brewing",
+      "address": "6550 Mira Mesa Blvd, San Diego, CA 92121",
+      "bLat": 32.9064756,
+      "bLong": -117.1781196
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Ballast Point",
+      "address": "9045 Carroll Way, San Diego, CA 92121",
+      "bLat": 32.887871,
+      "bLong": -117.158119
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Karl Strauss Brewing Company",
+      "address": "9675 Scranton Rd, San Diego, CA 92121",
+      "bLat": 32.8963457,
+      "bLong": -117.2027066
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Karl Strauss Brewing Company",
+      "address": "9675 Scranton Rd, San Diego, CA 92121",
+      "bLat": 32.8963457,
+      "bLong": -117.2027066
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "AleSmith Brewing Company",
+      "address": "9990 AleSmith Ct, San Diego, CA 92126",
+      "bLat": 32.899613,
+      "bLong": -117.144916
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "AleSmith Brewing Company",
+      "address": "9990 AleSmith Ct, San Diego, CA 92126",
+      "bLat": 32.899613,
+      "bLong": -117.144916
+    },
+    {
+      "teams": "San Diego Padres",
+      "stadium": "Petco Park",
+      "brewery": "Mermaid Brewing",
+      "address": "",
+      "bLat": "",
+      "bLong": ""
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Fieldwork Brewing Company",
+      "address": "1160 Sixth Street, Berkeley, CA 94710",
+      "bLat": 37.87083,
+      "bLong": -122.29861
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Moonraker Brewing Co.",
+      "address": "12970 Earhart Ave #100, Auburn, CA 95602",
+      "bLat": 38.950771,
+      "bLong": -121.081459
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Trumer Brauerei Berkeley",
+      "address": "1404 Fourth St, Berkeley, CA 94710",
+      "bLat": 37.87674,
+      "bLong": -122.30344
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Laughing Monk Brewing",
+      "address": "1439 Egbert Ave unit a/b, San Francisco, CA 94124",
+      "bLat": 37.7228944,
+      "bLong": -122.3932045
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Anchor Brewing Company",
+      "address": "1705 Mariposa St, San Francisco, CA 94107",
+      "bLat": 37.763401,
+      "bLong": -122.4010175
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Altamont",
+      "address": "2402 Research Dr, Livermore, CA 94550",
+      "bLat": 37.6783911,
+      "bLong": -121.7210974
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Beachwood Blendery",
+      "address": "247 Long Beach Boulevard, Long Beach, CA 90802",
+      "bLat": 33.7701069,
+      "bLong": -118.1894716
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Lagunitas Brewing Company",
+      "address": "2607 W 17th St, Chicago, IL 60608",
+      "bLat": 41.8577607,
+      "bLong": -87.6923518
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "HenHouse Brewing Company",
+      "address": "322 Bellevue Ave, Santa Rosa, CA 95407",
+      "bLat": 38.4017722,
+      "bLong": -122.7241302
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Plow Brewing Company",
+      "address": "3334 Industrial Dr, Santa Rosa, CA 95403",
+      "bLat": 38.474275,
+      "bLong": -122.7400727
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Temescal Brewing",
+      "address": "4115 Telegraph Ave, Oakland, CA 94609",
+      "bLat": 37.8359699,
+      "bLong": -122.2626356
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Almanac",
+      "address": "651 W Tower Ave, Alameda, CA 94501",
+      "bLat": 37.7833703,
+      "bLong": -122.2994436
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Local Brewing",
+      "address": "69 Bluxome St, San Francisco, CA 94107",
+      "bLat": 37.776173,
+      "bLong": -122.3973825
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "The Bruery",
+      "address": "717 Dunn Way, Placentia, CA 92870",
+      "bLat": 33.8623093,
+      "bLong": -117.8791616
+    },
+    {
+      "teams": "San Francisco Giants",
+      "stadium": "Oracle Park",
+      "brewery": "Russian River Brewing Company",
+      "address": "725 4th St, Santa Rosa, CA 95404",
+      "bLat": 38.4417986,
+      "bLong": -122.7116634
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Dru Bru Pacific Crest",
+      "address": "10 Pass Life Way #3, Snoqualmie Pass, WA 98068",
+      "bLat": 47.421188,
+      "bLong": -121.412514
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "No-Li Brewhouse",
+      "address": "1003 E Trent Ave #170, Spokane, WA 99202",
+      "bLat": 47.66287,
+      "bLong": -117.3942
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Fremont Brewing Company",
+      "address": "1050 N 34th St, Seattle, WA 98103",
+      "bLat": 47.64899,
+      "bLong": -122.34444
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Maritime Pacific Brewing Company",
+      "address": "1111 NW Ballard Way, Seattle, WA 98107",
+      "bLat": 47.662701,
+      "bLong": -122.371712
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Elysian Capitol Hill Brewery",
+      "address": "1221 E Pike St, Seattle, WA 98122",
+      "bLat": 47.61413,
+      "bLong": -122.29881
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "10 Barrel",
+      "address": "1411 NW Flanders St, Portland, OR 97209",
+      "bLat": 45.5258997,
+      "bLong": -122.6854954
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Pike Brewing Company",
+      "address": "1415 1st Ave, Seattle, WA 98101",
+      "bLat": 47.6099366,
+      "bLong": -122.3353594
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Black Raven Brewing Co.",
+      "address": "14679 NE 95th St, Redmond, WA 98052",
+      "bLat": 47.6856808,
+      "bLong": -122.1210585
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Saucony Creek Brewing Company + Gastropub",
+      "address": "15032 Kutztown Rd, Kutztown, PA 19530",
+      "bLat": 40.5173,
+      "bLong": -75.7774
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Sumerian Brewing Company",
+      "address": "15510 Redmond-Woodinville Rd NE E110, Woodinville, WA 98072",
+      "bLat": 47.698306,
+      "bLong": -122.132141
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Mac & Jack's Brewery",
+      "address": "17825 NE 65th St, Redmond, WA 98052",
+      "bLat": 47.6639958,
+      "bLong": -122.1022118
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Bale Breaker Brewing Company",
+      "address": "1801 Birchfield Rd, Yakima, WA 98901",
+      "bLat": 46.576865,
+      "bLong": -120.435335
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "21st Amendment Brewery",
+      "address": "2010 Williams St, San Leandro, CA 94577",
+      "bLat": 37.7106085,
+      "bLong": -122.176798
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "7 Seas Brewery and Taproom",
+      "address": "2101 Jefferson Ave, Tacoma, WA 98402",
+      "bLat": 47.2425697,
+      "bLong": -122.4389955
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Rogue Brewing",
+      "address": "2320 SE Marine Science Dr, Newport, OR 97365",
+      "bLat": 44.6193044,
+      "bLong": -124.0495876
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Ninkasi Brewing",
+      "address": "272 Van Buren St, Eugene, OR 97402",
+      "bLat": 44.0569763,
+      "bLong": -123.1097794
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Schooner Exact Brewing Company",
+      "address": "3901 1st Ave S, Seattle, WA 98134",
+      "bLat": 47.5678008,
+      "bLong": -122.3354879
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Iron Horse Brewing",
+      "address": "412 N Main St, Ellensburg, WA 98926",
+      "bLat": 46.9956956,
+      "bLong": -120.5485044
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Victory Brewing Company",
+      "address": "420 Acorn Ln, Downingtown, PA 19335",
+      "bLat": 40.0051117,
+      "bLong": -75.6940069
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Diamond Knot Brewery",
+      "address": "4602 Chennault Beach Rd b2, Mukilteo, WA 98275",
+      "bLat": 47.896152,
+      "bLong": -122.295403
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Two Beers Brewing Co.",
+      "address": "4700 Ohio Ave S, Seattle, WA 98134",
+      "bLat": 47.5605648,
+      "bLong": -122.3377084
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "NW Peaks Brewery",
+      "address": "4818 17th Ave NW, Seattle, WA 98107",
+      "bLat": 47.664253,
+      "bLong": -122.378716
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Reuben's Brews",
+      "address": "5010 14th Ave NW, Seattle, WA 98107",
+      "bLat": 47.6654087,
+      "bLong": -122.3732468
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Full Sail Brewing Company",
+      "address": "506 Columbia St, Hood River, OR 97031",
+      "bLat": 45.7103601,
+      "bLong": -121.516566
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Spire Mountain Ciders",
+      "address": "515 Jefferson St SE, Olympia, WA 98501",
+      "bLat": 47.0442064,
+      "bLong": -122.896689
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Breakside",
+      "address": "5821 SE International Way, Milwaukie, OR 97222",
+      "bLat": 45.4317535,
+      "bLong": -122.6032529
+    },
+    {
+      "teams": "Seattle Mariners",
+      "stadium": "T-Mobile Park",
+      "brewery": "Ecliptic",
+      "address": "825 N Cook St, Portland, OR 97227",
+      "bLat": 45.54737,
+      "bLong": -122.6751185
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "4 Hands",
+      "address": "1220 S 8th St, St. Louis, MO 63104",
+      "bLat": 38.637001,
+      "bLong": -90.18956
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Elysian Capitol Hill Brewery",
+      "address": "1221 E Pike St, Seattle, WA 98122",
+      "bLat": 47.61413,
+      "bLong": -122.29881
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Jacob Leinenkugel Brewing Company",
+      "address": "124 E Elm St, Chippewa Falls, WI 54729",
+      "bLat": 44.9423,
+      "bLong": -91.39638
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "2nd Shift",
+      "address": "1601 Sublette Ave, St. Louis, MO 63110",
+      "bLat": 38.6215046,
+      "bLong": -90.2807846
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "The Schlafly Tap Room",
+      "address": "2100 Locust St, St. Louis, MO 63103",
+      "bLat": 38.6329887,
+      "bLong": -90.2096942
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Mother's Brewing Company",
+      "address": "215 S Grant Ave, Springfield, MO 65806",
+      "bLat": 37.2079174,
+      "bLong": -93.2992828
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Founders Brewing Company",
+      "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+      "bLat": 42.9524964,
+      "bLong": -85.6765753
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Boulevard Brewing Co.",
+      "address": "2501 Southwest Blvd, Kansas City, MO 64108",
+      "bLat": 39.0819635,
+      "bLong": -94.5968231
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Breckenridge Brewery",
+      "address": "2920 Brewery Ln, Littleton, CO 80120",
+      "bLat": 39.5937,
+      "bLong": -105.023491
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Boston Beer Company (Samuel Adams)",
+      "address": "30 Germania St, Boston, MA 02130",
+      "bLat": 42.314548,
+      "bLong": -71.102882
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Urban Chestnut Brewing Company",
+      "address": "3229 Washington Ave, St. Louis, MO 63103",
+      "bLat": 38.637929,
+      "bLong": -90.225791
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "Bell's Brewery",
+      "address": "355 E Kalamazoo Ave, Kalamazoo, MI 49007",
+      "bLat": 42.2949155,
+      "bLong": -85.5788729
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "O'Fallon Brewery",
+      "address": "45 Progress Pkwy, Maryland Heights, MO 63043",
+      "bLat": 38.7141567,
+      "bLong": -90.44581
+    },
+    {
+      "teams": "St. Louis Cardinals",
+      "stadium": "Busch Stadium",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Green Bench Brewing Co.",
+      "address": "1133 Baum Ave N, St. Petersburg, FL 33705",
+      "bLat": 27.771709,
+      "bLong": -82.650658
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Jacob Leinenkugel Brewing Company",
+      "address": "124 E Elm St, Chippewa Falls, WI 54729",
+      "bLat": 44.9423,
+      "bLong": -91.39638
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Big Storm",
+      "address": "12707 49th St N, Clearwater, FL 33762",
+      "bLat": 27.8874,
+      "bLong": -82.69971
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Tampa Bay Brewing",
+      "address": "1600 E 8th Ave, Tampa, FL 33605",
+      "bLat": 27.9610761,
+      "bLong": -82.4418927
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "3 Daughters",
+      "address": "222 22nd St S, St. Petersburg, FL 33712",
+      "bLat": 27.7689902,
+      "bLong": -82.6629721
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Coppertail Brewing",
+      "address": "2601 E 2nd Ave, Tampa, FL 33605",
+      "bLat": 27.956553,
+      "bLong": -82.430498
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Boston Beer Company (Samuel Adams)",
+      "address": "30 Germania St, Boston, MA 02130",
+      "bLat": 42.314548,
+      "bLong": -71.102882
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Brew Hub",
+      "address": "3900 Frontage Rd S, Lakeland, FL 33815",
+      "bLat": 27.996053,
+      "bLong": -81.978814
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Cigar City Brewing Company",
+      "address": "3924 W Spruce St, Tampa, FL 33607",
+      "bLat": 27.959172,
+      "bLong": -82.509195
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "New Belgium Brewing",
+      "address": "500 Linden St, Fort Collins, CO 80524",
+      "bLat": 40.59342,
+      "bLong": -105.0684
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Cycle Brewing",
+      "address": "534 Central Ave, St. Petersburg, FL 33701",
+      "bLat": 27.7709069,
+      "bLong": -82.6409282
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Saint Pete Brewing",
+      "address": "544 1st Ave N, St. Petersburg, FL 33701",
+      "bLat": 27.7717902,
+      "bLong": -82.6410209
+    },
+    {
+      "teams": "Tampa Bay Rays",
+      "stadium": "Tropicana Field",
+      "brewery": "Crooked Thumb",
+      "address": "555 10th Ave S, Safety Harbor, FL 34695",
+      "bLat": 27.9874923,
+      "bLong": -82.6987679
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Four Peaks Brewing Company",
+      "address": "1340 E 8th St #104, Tempe, AZ 85281",
+      "bLat": 33.419899,
+      "bLong": -111.915077
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Saint Arnold Brewing Company",
+      "address": "2000 Lyons Ave, Houston, TX 77020",
+      "bLat": 29.7711237,
+      "bLong": -95.3484665
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Karbach Brewing Co.",
+      "address": "2032 Karbach St, Houston, TX 77092",
+      "bLat": 29.8063812,
+      "bLong": -95.4605283
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Real Ale Brewing Company",
+      "address": "231 San Saba Ct, Blanco, TX 78606",
+      "bLat": 30.113319,
+      "bLong": -98.4128525
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Founders Brewing Company",
+      "address": "235 Grandville Ave SW, Grand Rapids, MI 49503",
+      "bLat": 42.9524964,
+      "bLong": -85.6765753
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Deep Ellum Brewing Company",
+      "address": "2823 St Louis St, Dallas, TX 75226",
+      "bLat": 32.7807294,
+      "bLong": -96.7813877
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Oskar Blues Brewery",
+      "address": "342 Mountain Industrial Dr, Brevard, NC 28712",
+      "bLat": 35.2536956,
+      "bLong": -82.7069595
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Franconia Brewing Company",
+      "address": "495 McKinney Pkwy, McKinney, TX 75071",
+      "bLat": 33.213003,
+      "bLong": -96.6091177
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Legal Draft Beer Co.",
+      "address": "500 E Division St, Arlington, TX 76011",
+      "bLat": 32.7379791,
+      "bLong": -97.1026034
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Legal Draft Beer Co.",
+      "address": "500 E Division St, Arlington, TX 76011",
+      "bLat": 32.7379791,
+      "bLong": -97.1026034
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Rahr & Sons Brewing",
+      "address": "701 Galveston Ave, Fort Worth, TX 76104",
+      "bLat": 32.7371,
+      "bLong": -97.327292
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Kona Brewing Co.",
+      "address": "74-5612 Pawai Pl, Kailua, HI 96740",
+      "bLat": 19.643069,
+      "bLong": -155.997661
+    },
+    {
+      "teams": "Texas Rangers",
+      "stadium": "Globe Life Park in Arlington",
+      "brewery": "Odell Brewing Company",
+      "address": "800 E Lincoln Ave, Fort Collins, CO 80524",
+      "bLat": 40.5895239,
+      "bLong": -105.0633327
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Mill Street Brewery",
+      "address": "125 Bermondsey Rd, North York, ON M4A 1X3, Canada",
+      "bLat": 43.71838,
+      "bLong": -79.3124
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Alexander Keith?s",
+      "address": "1496 Lower Water St, Halifax, NS B3J 3R5, Canada",
+      "bLat": 44.644606,
+      "bLong": -63.5705145
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Labatt Brewery",
+      "address": "150 Simcoe St, London, ON N6A 4M3, Canada",
+      "bLat": 42.977236,
+      "bLong": -81.248999
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Goose Island Beer Co.",
+      "address": "1800 W Fulton St, Chicago, IL 60612",
+      "bLat": 41.88694,
+      "bLong": -87.672256
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "ockley Valley Brewing Co",
+      "address": "25 Centennial Rd #10, Orangeville, ON L9W 1R1, Canada",
+      "bLat": 43.91045,
+      "bLong": -80.110013
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Sleeman Brewery",
+      "address": "551 Clair Rd W, Guelph, ON N1L 1E9, Canada",
+      "bLat": 43.490829,
+      "bLong": -80.206681
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Stella Artois",
+      "address": "Aarschotsesteenweg 20, 3000 Leuven, Belgium",
+      "bLat": 50.9387779,
+      "bLong": 4.7358296
+    },
+    {
+      "teams": "Toronto Blue Jays",
+      "stadium": "Rogers Centre",
+      "brewery": "Hoegaarden brewery",
+      "address": "Altenaken 1-3, 3320 Hoegaarden, Belgium",
+      "bLat": 50.7741985,
+      "bLong": 4.9127051
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Sierra Nevada Brewing Co.",
+      "address": "1075 E 20th St, Chico, CA 95928",
+      "bLat": 39.723679,
+      "bLong": -121.815453
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Atlas",
+      "address": "2052 West Virginia Ave NE #102, Washington, DC 20002",
+      "bLat": 38.9148077,
+      "bLong": -76.9815312
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Golden Road Brewing",
+      "address": "2210 E Orangewood Ave, Anaheim, CA 92806",
+      "bLat": 33.795521,
+      "bLong": -117.88501
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Boulevard Brewing Co.",
+      "address": "2501 Southwest Blvd, Kansas City, MO 64108",
+      "bLat": 39.0819635,
+      "bLong": -94.5968231
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "DC Brau",
+      "address": "3178 Bladensburg Rd NE Suite B, Washington, DC 20018",
+      "bLat": 38.9297174,
+      "bLong": -76.9601984
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Port City Brewing",
+      "address": "3950 Wheeler Ave, Alexandria, VA 22304",
+      "bLat": 38.8080316,
+      "bLong": -77.1014923
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Flying Dog Brewery",
+      "address": "4607 Wedgewood Blvd, Frederick, MD 21703",
+      "bLat": 39.3628322,
+      "bLong": -77.4267911
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Allagash Brewing Company",
+      "address": "50 Industrial Way, Portland, ME 04103",
+      "bLat": 43.7030951,
+      "bLong": -70.3179518
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Devils Backbone",
+      "address": "50 N Wind Ln, Lexington, VA 24450",
+      "bLat": 37.821577,
+      "bLong": -79.391205
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "Dogfish Head Craft Brewery",
+      "address": "6 Cannery Village Center, Milton, DE 19968",
+      "bLat": 38.7671166,
+      "bLong": -75.3113509
+    },
+    {
+      "teams": "Washington Nationals",
+      "stadium": "Nationals Park",
+      "brewery": "3 Stars Brewing",
+      "address": "6400 Chillum Pl NW, Washington, DC 20012",
+      "bLat": 38.9675541,
+      "bLong": -77.0127607
+    }
+  ]
