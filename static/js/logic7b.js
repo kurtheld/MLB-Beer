@@ -52,6 +52,7 @@ function createMap(brewery) {
     }).addTo(map);
   }
 
+  // pass the urls into variables
   var queryUrl = "/jsonfile";
   var queryUrl2 = "/breweryjsonfile";
 
@@ -60,6 +61,7 @@ function createMap(brewery) {
   createFeatures(beerdata);
  
   });
+  // Create the icon for the breweries
     var mlbIcon2 = L.icon({
       iconUrl: "static/images/beer.png",
       iconSize: [55, 60], // size of the icon
@@ -71,7 +73,6 @@ function createMap(brewery) {
     function createFeatures(beerdata) {
       
       beerdata.forEach(b => {
-        //  console.log(b.lat, b.lng);
         var marker2 = L.marker([b.bLat, b.bLong], {icon: mlbIcon2})
           .bindPopup("<h3>Brewery: " + b.brewery + "</h3><h3>Stadium served: " + b.stadium + "</h3><hr><p>Brewery Address: " + b.address + "</p>");
     

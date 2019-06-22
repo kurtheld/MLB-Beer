@@ -51,25 +51,17 @@ function createMap(mlbStadiums) {
     collapsed: false
   }).addTo(map);
 }
-
+// pass the urls into variables
 var queryUrl = "/jsonfile";
 var queryUrl2 = "/breweryjsonfile";
+
 // Perform a GET request to the query the baseball stadium API URL
-//   d3.json("/jsonfile").then((data) => {
-//   d3.json('/jsonfile').then(function (data) {
-
-
-
 d3.json(queryUrl, function (data) {
-  // d3.json(queryUrl2, function (beerData) {
-  // d3.json('/jsonfile').then(function (data) {
-  // createFeatures(beerData); 
-  // });
+
   console.log(data);
   // Once we get a response, send the data.features object to the createFeatures function
-    // createFeatures(beerData);
+
   createFeatures(data);
-  // });
 });
 
 
@@ -77,14 +69,12 @@ var markerList = [];
 function createFeatures(data) {
 
   data.forEach(d => {
-    //  console.log(d.lat, d.lng);
+    // Create the icons for each team
     var mlbIcon = L.icon({
-      // .extendoptions: {
       iconUrl: d.Logos,
       iconSize: [55, 60], // size of the icon
       iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
       popupAnchor: [0, -60]
-      //    }
     });
 
     var marker = L.marker([d.Latitude, d.Longitude], { icon: mlbIcon })
