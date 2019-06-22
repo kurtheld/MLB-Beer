@@ -32,6 +32,17 @@ def index():
     """Return the homepage."""
     return render_template("index.html")
 
+
+@app.route("/index.html")
+def index2():
+    """Return the homepage."""
+    return render_template("index.html")
+
+@app.route("/brewery.html")
+def brewery():
+    """Return the homepage."""
+    return render_template("brewery.html")
+
 @app.route('/get_image')
 def get_image():
     # request.args.get('type') == '1':

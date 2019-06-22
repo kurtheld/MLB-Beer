@@ -1,21 +1,21 @@
 function createMap(brewery) {
 
     // Create the tile layer that will be the background of our map
-    var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
+    var lmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/light-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
       attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
       maxZoom: 18,
       id: "mapbox.light",
       accessToken: API_KEY
     });
   
-    var streetmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/streets-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
+    var smap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/streets-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
       attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
       maxZoom: 18,
       id: "mapbox.street",
       accessToken: API_KEY
     });
   
-    var darkmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
+    var dmap = L.tileLayer("https://api.mapbox.com/styles/v1/mapbox/dark-v9/tiles/256/{z}/{x}/{y}?access_token={accessToken}", {
       attribution: "Map data &copy; <a href=\"http://openstreetmap.org\">OpenStreetMap</a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA</a>, Imagery © <a href=\"http://mapbox.com\">Mapbox</a>",
       maxZoom: 18,
       id: "mapbox.dark",
@@ -24,9 +24,9 @@ function createMap(brewery) {
   
     // Create a baseMaps object to hold the lightmap layer
     var baseMaps = {
-      "Light Map": lightmap,
-      "Street Map": streetmap,
-      "Dark Map": darkmap
+      "Light Map": lmap,
+      "Street Map": smap,
+      "Dark Map": dmap
     };
   
    
@@ -39,10 +39,10 @@ function createMap(brewery) {
     };
   
     // Create the map object with options
-    var map = L.map("map", {
+    var map = L.map("map2", {
       center: [39.82, -98.57],
       zoom: 5.2,
-      layers: [lightmap, streetmap, darkmap, brewery]
+      layers: [lmap, smap, dmap, brewery]
     });
   
     // Create a layer control, pass in the baseMaps and overlayMaps. 
@@ -61,7 +61,7 @@ function createMap(brewery) {
  
   });
     var mlbIcon2 = L.icon({
-      iconUrl: "static/images/mlb.png",
+      iconUrl: "static/images/beer.png",
       iconSize: [55, 60], // size of the icon
       iconAnchor: [26, 60], // point of the icon which will correspond to marker's location
       popupAnchor: [0, -60]
@@ -73,7 +73,7 @@ function createMap(brewery) {
       beerdata.forEach(b => {
         //  console.log(b.lat, b.lng);
         var marker2 = L.marker([b.bLat, b.bLong], {icon: mlbIcon2})
-          .bindPopup("<h3>" + b.teams + "</h3><h3>Location: " + b.stadium + "</h3><hr><p>" + b.address + "</p>");
+          .bindPopup("<h3>Brewery: " + b.brewery + "</h3><h3>Stadium served: " + b.stadium + "</h3><hr><p>Brewery Address: " + b.address + "</p>");
     
     
         // Add the marker to the bikeMarkers array

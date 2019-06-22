@@ -40,7 +40,7 @@ function createMap(mlbStadiums) {
 
   // Create the map object with options
   var map = L.map("map", {
-    center: [39.82, -98.57],
+    center: [34.82, -98.57],
     zoom: 5.2,
     layers: [lightmap, streetmap, darkmap, mlbStadiums]
   });
@@ -88,7 +88,7 @@ function createFeatures(data) {
     });
 
     var marker = L.marker([d.Latitude, d.Longitude], { icon: mlbIcon })
-      .bindPopup("<h3>" + d.Teams + "</h3><h3>Location: " + d.City + "</h3><hr><p>" + d.Beers + "</p>");
+      .bindPopup("<h3>" + d.Teams + "</h3><h3>Location: " + d.City + "</h3><hr><p>Likely Beers: " + d.Beers + "</p>");
 
 
     // Add the marker to the bikeMarkers array
